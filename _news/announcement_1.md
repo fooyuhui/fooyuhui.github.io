@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers about **dexterous hands** are accepted by **ICLR 2025**!
+Two papers about dexterous hands are accepted by **ICLR 2025!

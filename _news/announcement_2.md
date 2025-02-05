@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-One paper [MGPO](https://github.com/PKU-RL/MGPO) is accepted by **NIPS 2024**!
+One paper [MGPO](https://github.com/PKU-RL/MGPO) is accepted by NIPS 2024!
